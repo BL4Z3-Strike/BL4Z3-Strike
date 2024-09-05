@@ -11,9 +11,9 @@ BL4Z3-Strike is an advanced and versatile penetration testing tool designed for 
 - **Anonymous Tor Service:** Routes traffic through the Tor network for anonymous testing and data collection.
 - **MAC Address Changer:** Changes the MAC address of network interfaces to enhance anonymity and avoid detection.
 - **Exploit Modules:** Includes various types of exploits for testing vulnerabilities, such as:
-  - **Discord Nuke Bot:** Disrupts Discord servers by overwhelming them with requests.
-  - **Shell and Shell Listener:** Provides remote shell access and listens for incoming shell connections.
-  - **Brute Force Attacks:** Performs brute force attacks on SSH and FTP services to test password strength.
+- **Discord Nuke Bot:** Disrupts Discord servers by overwhelming them with requests.
+- **Shell and Shell Listener:** Provides remote shell access and listens for incoming shell connections.
+- **Brute Force Attacks:** Performs brute force attacks on SSH and FTP services to test password strength.
 - **Hash Cracker:** Attempts to crack hashed passwords using a variety of algorithms and techniques.
 - **Network Sniffer:** Captures and analyzes network traffic to identify potential security issues and monitor network activity.
 
