@@ -24,11 +24,8 @@ BL4Z3-Strike is an advanced and versatile penetration testing tool designed for 
    git clone https://github.com/BL4Z3-Strike/BL4Z3-Strike.git
    cd BL4Z3-Strike
 2. **Run the Main Application:**
-
-  ```bash
- python app.py
-
-
+   ```bash
+      python app.py  
 **License and Usage:**
 
 BL4Z3-Strike is distributed under the MIT License. For license details and source code, visit the [GitHub Page](https://github.com/BL4Z3-Strike/BL4Z3-Strike). It is important to adhere to ethical guidelines and legal regulations during use. BL4Z3-Strike is intended for use only on authorized systems.
