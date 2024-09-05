@@ -1,20 +1,29 @@
-# BL4Z3-Strike - Powerful Penetration Testing Tool
+# BL4Z3-Strike - Comprehensive Penetration Testing Tool
 
 **Description:**
 
-BL4Z3-Strike is a powerful and comprehensive penetration testing application designed for cybersecurity professionals and ethical hackers. With its advanced features and user-friendly interface, it helps you quickly identify security vulnerabilities and develop effective defense strategies against cyber threats.
+BL4Z3-Strike is an advanced and versatile penetration testing tool designed for cybersecurity professionals and ethical hackers. It provides a wide range of features for network security assessment, vulnerability scanning, and exploitation, making it an essential tool for any security toolkit.
 
 **Key Features:**
 
-- **Advanced Scanning and Analysis:** A robust scanning engine that rapidly and effectively identifies network and application-based security vulnerabilities.
-- **Comprehensive Reporting:** Tools for detailed reporting and analysis that make it easier to pinpoint and address security issues.
-- **Real-Time Monitoring:** Live monitoring and analysis capabilities that provide an instantaneous view of your system's security status.
-- **Extensive Protocol Support:** Support for HTTP, HTTPS, FTP, SSH, and many other protocols, offering a wide range of testing options.
-- **User-Friendly Interface:** An intuitive and accessible interface suitable for both experienced users and newcomers.
+- **Port Scanning:** Efficiently identifies open ports and services running on networked systems to assess potential vulnerabilities.
+- **Vulnerability Scanning:** Detects security weaknesses in systems and applications, allowing for targeted remediation efforts.
+- **Anonymous Tor Service:** Routes traffic through the Tor network for anonymous testing and data collection.
+- **MAC Address Changer:** Changes the MAC address of network interfaces to enhance anonymity and avoid detection.
+- **Exploit Modules:** Includes various types of exploits for testing vulnerabilities, such as:
+  - **Discord Nuke Bot:** Disrupts Discord servers by overwhelming them with requests.
+  - **Shell and Shell Listener:** Provides remote shell access and listens for incoming shell connections.
+  - **Brute Force Attacks:** Performs brute force attacks on SSH and FTP services to test password strength.
+- **Hash Cracker:** Attempts to crack hashed passwords using a variety of algorithms and techniques.
+- **Network Sniffer:** Captures and analyzes network traffic to identify potential security issues and monitor network activity.
 
-**Who Is It For?**
+**Installation and Usage:**
 
-BL4Z3-Strike is designed for cybersecurity professionals, ethical hackers, and IT experts. It is the perfect tool for identifying security vulnerabilities, strengthening your systems, and implementing measures against cyber attacks.
+1. **Clone the Repository:**
+   ```bash
+   git clone https://github.com/BL4Z3-Strike/BL4Z3-Strike.git
+   cd BL4Z3-Strike
+
 
 **License and Usage:**
 
