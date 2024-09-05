@@ -25,10 +25,9 @@ BL4Z3-Strike is an advanced and versatile penetration testing tool designed for 
    cd BL4Z3-Strike
 2. **Run the Main Application:**
 
-To start the BL4Z3-Strike application, execute the main script using Python:
+  ```bash
+ python app.py
 
-```bash
-python app.py
 
 **License and Usage:**
 
