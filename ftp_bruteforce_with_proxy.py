@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from ftplib import FTP
 import socks
 import socket
