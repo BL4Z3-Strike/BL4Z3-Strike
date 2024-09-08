@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 import subprocess
 
 def change_mac(interface, new_mac):
