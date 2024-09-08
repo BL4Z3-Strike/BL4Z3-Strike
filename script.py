@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from PyPDF2 import PdfWriter
 
 def create_malicious_pdf(output_path):
