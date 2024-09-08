@@ -1,3 +1,4 @@
+#!/usr/bin/env python
 from scapy.all import sniff, IP, TCP, UDP, ICMP
 from colorama import Fore, Style, init
 
