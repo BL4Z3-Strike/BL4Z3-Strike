@@ -1,0 +1,11 @@
+scapy
+colorama
+requests
+threading
+paramiko
+PySocks
+ftplib
+discord.py
+PyPDF2
+pypdf
+re
